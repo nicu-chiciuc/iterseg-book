@@ -1,0 +1,97 @@
+\section{Used Technologies}
+        I started creating this piece of software with the idea that it would be easily used online. That is the reason I used JavaScript, HTML and CSS as the main technologies. Below I will try to explain most of the details and the problem that arised during the development phase.
+
+        \subsection{General HTML layout}
+
+            The main HTML page has several layers stacked one over another. First of all, there are 2 \emph{canvas} elements. One is used for the grid and the other one is used for drawing the recursive image. After this there are several \emph{SVG} elements (I call them \emph{layers} in the code). These layers contain all the draggable elements (the circles, the arrows and the invisible background). Also, for the menu, I used \emph{jQuery UI} framework. That is a simple to use HTML/CSS widget. This is basically all the setup.
+
+        \subsection{The \emph{Canvas} element}
+            Wikipedia \cite{wiki_canvas} give a very good and brief description of the canvas. \\
+            \emph{The canvas element is part of HTML5 and allows for dynamic, scriptable rendering of 2D shapes and bitmap images. It is a low level, procedural model that updates a bitmap and does not have a built-in scene graph}. \\
+
+            The canvas element has several simple to use functions like \xt{lineTo()}, \xt{moveTo()}, \xt{fill()}, \xt{stroke()}, etc. Canvas is very good and fast at drawing lots of lines and this was exactly what I needed.
+
+            While beginning to work on the project I first implemented the recursive drawing using a SVG element (which I will talk about shortly) but it was to computationally expensive and slow that's why I used canvas.
+
+        \subsection{The \emph{SVG} element}
+            The SVG element (Scalable Vector Graphics) is developed since 1999. It uses an XML syntax (just like HTML) to represent vector images. For example in order to represent an circle of radius $r=50$ with the center in coordinates $x=100$ and $y=200$ one should simply write :
+            \begin{lstlisting}
+            <?xml version="1.0"?>
+            <svg viewBox="0 0 120 120" version="1.1"
+                xmlns="http://www.w3.org/2000/svg">
+                
+                <circle cx="100" cy="100" r="50"/>
+            </svg>
+            \end{lstlisting}
+            
+            Actually all the text before \xt{<circle />} is just telling what version of SVG standard we are using. Omitting most of those lines would usually not be a problem.
+
+            As it can be deduced SVG is great at, well, displaying vector graphics. Because it is written in XML it has a clear hierarchy of the objects inside it. Besides this it can trigger events that can be used by JavaScript code. This is a reason why I used SVG for drawing the draggable parts. For example in order to test whether the user has clicked inside the arrow (which is basically a triangle) I would had to use some geometric calculations. Using SVG I just used the \xt{click()} event. The same is for the circles.
+
+            It should be noted that SVG is used not just in web browsers. There are some vector graphics editors which use SVG as the primary standard (Inkscape).
+
+        \subsection{Snap SVG} 
+            Working with pure JavaScript functions for editing the SVG can be tedious and error prone. That is the reason I used a small framework, Snap.svg. 
+            Snap has a lot of functionality, at least more than I needed. 
+            It can perform animation, matrix transformation, filtering, etc. But I used just a little part of them. 
+            The most useful function was \xt{attr()}. 
+            That is a versatile function that can get or set attributes of SVG elements. For example instead of writing:
+            \begin{lstlisting}
+            cirle.setAttribute('cx', 5);
+            cirle.setAttribute('cy', 89);
+            cirle.setAttribute('r',  34);
+            \end{lstlisting}
+                        I could just write
+
+            \begin{lstlisting}
+            circle.attr({
+                'cx', 5,
+                'cy', 89,
+                'r',  34
+            });
+            \end{lstlisting}
+            which is easier to write and read. 
+
+            Snap.svg has similar function for creating and deleting elements. These functions where widely used inside the code of the software.
+
+        \subsection{jQuery UI}
+            One of the most used JavaScript framework is jQuery. A very good explanation of what jQuery UI is can be found on their site \cite{jquery}. \\
+            \emph{jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.}
+
+            In order to use jQuery UI one should simply add an \xt{div} or \xt{input} element inside the HTML page then invoke some jQuery UI methods in order to apply the needed CSS transformation to that div. For example The code below transforms the div with the id \emph{testing} into a button.
+            \begin{lstlisting}
+            $('#testing').button();
+            \end{lstlisting}
+
+            Of course besides this, jQuery has similar methods for responding to events.
+
+        \subsection{Spectrum.js}
+
+            I needed some way to let the user to choose colors for different layers. 
+            Writing such a thing from scratch would not be efficient that's why I used a user-made widget for jQuery UI. 
+            The name of that widget is \emph{Spectrum.js}. 
+            It provides some simple way of configuration and, generally, didn't require to much insight to use. 
+
+        \subsection{CoffeeScript}
+
+            CoffeeScript is a little language that compiles into JavaScript. 
+            That's what their site claims. 
+            Their motto is \quotes{It's just JavaScript}. 
+            The language does not implement some different concepts or any other things that would be strange for a JS developer. 
+            It just writes more beautiful and more readable code than JS. 
+            For example instead of writing.
+            \begin{lstlisting}
+            test = function() {
+                // something
+            }
+            \end{lstlisting}
+            in JavaScript, one could write
+            \begin{lstlisting}
+            test = () ->
+                # something
+            \end{lstlisting}
+            in CoffeeScript.
+
+            Of course this is a simple example but the lack of the \xt{function} keyword was a big motivation for me to switch to CoffeeScript.
+
+            I will note that there are a lot of languages that compile to JavaScript. Another one worth to mention is TypeScript. TypeScript was developed by a Microsoft employee and provides classes and static typing. 

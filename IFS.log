@@ -1,0 +1,1711 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2014.3.14)  13 NOV 2014 21:52
+entering extended mode
+**W:/Documents/Dropbox/Development/Iterative*Function*Systems/IFS.tex
+("W:/Documents/Dropbox/Development/Iterative Function Systems/IFS.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2013-05-26, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2013-05-26, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count87
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks20
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) ("C:\Pro
+gram Files (x86)\MiKTeX 2.9\tex\latex\fancyvrb\fancyvrb.sty"
+Package: fancyvrb 2008/02/07
+
+Style option: `fancyvrb' v2.7a, with DG/SPQR fixes, and firstline=lastline fix 
+<2008/02/07> (tvz)
+\FV@CodeLineNo=\count91
+\FV@InFile=\read1
+\FV@TabBox=\box26
+\c@FancyVerbLine=\count92
+\FV@StepNumber=\count93
+\FV@OutFile=\write3
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mh\mathtools.sty"
+Package: mathtools 2013/02/12 v1.13 mathematical typesetting tools
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count94
+\calc@Bcount=\count95
+\calc@Adimen=\dimen111
+\calc@Bdimen=\dimen112
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count96
+\calc@Cskip=\skip45
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\mh\mhsetup.sty"
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip46
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks21
+\ex@=\dimen113
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen114
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen115
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip10
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks22
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks23
+\eqnshift@=\dimen116
+\alignsep@=\dimen117
+\tagshift@=\dimen118
+\tagwidth@=\dimen119
+\totwidth@=\dimen120
+\lineht@=\dimen121
+\@envbody=\toks24
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count109
+\l_MT_multwidth_dim=\dimen122
+\origjot=\skip49
+\l_MT_shortvdotswithinadjustabove_dim=\dimen123
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen124
+\l_MT_above_intertext_sep=\dimen125
+\l_MT_below_intertext_sep=\dimen126
+\l_MT_above_shortintertext_sep=\dimen127
+\l_MT_below_shortintertext_sep=\dimen128
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count110
+))
+\Gin@req@height=\dimen129
+\Gin@req@width=\dimen130
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2010/02/09 v2.5 Conversion with epstopdf on the fly (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))) ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 311.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 312.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 313.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 314.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 315.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 316.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 317.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 318.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 319.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 320.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 321.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 322.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 323.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 324.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 326.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 327.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 328.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 329.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 330.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 331.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 332.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 333.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 334.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 335.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 336.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 337.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 338.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 339.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 340.
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\lmodern.sty"
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen131
+\Hy@linkcounter=\count111
+\Hy@pagecounter=\count112
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count113
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count114
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen132
+\Fld@menulength=\count115
+\Field@Width=\dimen133
+\Fld@charsize=\dimen134
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring OFF on input line 6315.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count116
+\c@Item=\count117
+\c@Hfootnote=\count118
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count119
+\c@bookmark@seq@number=\count120
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip50
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\placeins\placeins.sty"
+Package: placeins 2005/04/18  v 2.2
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count121
+\lst@gtempboxa=\box29
+\lst@token=\toks26
+\lst@length=\count122
+\lst@currlwidth=\dimen135
+\lst@column=\count123
+\lst@pos=\count124
+\lst@lostspace=\dimen136
+\lst@width=\dimen137
+\lst@newlines=\count125
+\lst@lineno=\count126
+\lst@maxwidth=\dimen138
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
+\c@lstnumber=\count127
+\lst@skipnumbers=\count128
+\lst@framebox=\box30
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2014/03/04 1.5c listings configuration
+))
+Package: listings 2014/03/04 1.5c (Carsten Heinz)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count129
+\float@exts=\toks27
+\float@box=\box31
+\@float@everytoks=\toks28
+\@floatcapt=\box32
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2013/02/03 v1.1-62 Sub-captions (AR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2013/05/02 v3.3-89 Customizing captions (AR)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2013/05/02 v1.6-88 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 57.
+\captionmargin=\dimen139
+\captionmargin@=\dimen140
+\captionwidth=\dimen141
+\caption@tempdima=\dimen142
+\caption@indent=\dimen143
+\caption@parindent=\dimen144
+\caption@hangindent=\dimen145
+)
+\c@ContinuedFloat=\count130
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+)
+\c@subfigure=\count131
+\c@subtable=\count132
+) ("W:\Documents\Dropbox\Development\Iterative Function Systems\IFS.aux"
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/introduc
+tion.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/demonstr
+ation.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/simple_t
+echniques.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/advanced
+_techniques.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/randomne
+ss.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/mirrorin
+g.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/case_stu
+dies.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/used_tec
+hnologies.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/implemen
+tation_details.aux"))
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 34.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 34.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmr.fd"
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(83.11005pt, 448.0749pt, 83.11005pt)
+* v-part:(T,H,B)=(83.11005pt, 628.7499pt, 83.11005pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=448.0749pt
+* \textheight=628.7499pt
+* \oddsidemargin=10.84006pt
+* \evensidemargin=10.84006pt
+* \topmargin=-26.15994pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count133
+\scratchdimen=\dimen146
+\scratchbox=\box33
+\nofMPsegments=\count134
+\nofMParguments=\count135
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count136
+\MPscratchDim=\dimen147
+\MPnumerator=\count137
+\makeMPintoPDFobject=\count138
+\everyMPtoPDFconversion=\toks30
+)
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring OFF on input line 34.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count139
+)
+LaTeX Info: Redefining \ref on input line 34.
+LaTeX Info: Redefining \pageref on input line 34.
+LaTeX Info: Redefining \nameref on input line 34.
+("W:\Documents\Dropbox\Development\Iterative Function Systems\IFS.out") ("W:\Do
+cuments\Dropbox\Development\Iterative Function Systems\IFS.out")
+\@outlinefile=\write4
+\c@lstlisting=\count140
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 39.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ot1lmr.fd"
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 39.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omllmm.fd"
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 39.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omslmsy.fd"
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 39.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\omxlmex.fd"
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 39.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 39.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 39.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-2.def"
+File: uni-2.def 2013/05/13 UCS: Unicode data U+0200..U+02FF
+) ("W:\Documents\Dropbox\Development\Iterative Function Systems\IFS.toc"
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 2.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 2.
+[1
+
+{C:/Users/nicu/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}])
+\tf@toc=\write5
+[2]
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/introduc
+tion.tex") [3
+
+]
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/demonstr
+ation.tex" <img/simple01.png, id=312, 731.73375pt x 680.5425pt>
+File: img/simple01.png Graphic file (type png)
+<use img/simple01.png>
+Package pdftex.def Info: img/simple01.png used on input line 24.
+(pdftex.def)             Requested size: 89.6136pt x 83.34381pt.
+Package hyperref Info: bookmark level for unknown subfigure defaults to 0 on in
+put line 24.
+<img/simple02.png, id=314, 966.61125pt x 546.04pt>
+File: img/simple02.png Graphic file (type png)
+<use img/simple02.png>
+Package pdftex.def Info: img/simple02.png used on input line 27.
+(pdftex.def)             Requested size: 179.22722pt x 101.24077pt.
+<img/simple03.png, id=316, 2331.71124pt x 1904.11375pt>
+File: img/simple03.png Graphic file (type png)
+<use img/simple03.png>
+Package pdftex.def Info: img/simple03.png used on input line 36.
+(pdftex.def)             Requested size: 358.46129pt x 292.72307pt.
+[4
+
+
+ <W:/Documents/Dropbox/Development/Iterative Function Systems/img/simple01.png>
+ <W:/Documents/Dropbox/Development/Iterative Function Systems/img/simple02.png>
+ <W:/Documents/Dropbox/Development/Iterative Function Systems/img/simple03.png>
+] <img/med01.png, id=329, 570.13pt x 614.295pt>
+File: img/med01.png Graphic file (type png)
+<use img/med01.png>
+Package pdftex.def Info: img/med01.png used on input line 49.
+(pdftex.def)             Requested size: 71.69362pt x 77.24597pt.
+<img/med02.png, id=330, 805.0075pt x 416.55624pt>
+File: img/med02.png Graphic file (type png)
+<use img/med02.png>
+Package pdftex.def Info: img/med02.png used on input line 64.
+(pdftex.def)             Requested size: 179.22722pt x 92.74226pt.
+<img/med03.png, id=333, 2393.94376pt x 645.41125pt>
+File: img/med03.png Graphic file (type png)
+<use img/med03.png>
+Package pdftex.def Info: img/med03.png used on input line 75.
+(pdftex.def)             Requested size: 403.26468pt x 108.71394pt.
+<img/med04.png, id=334, 2325.68875pt x 626.34pt>
+File: img/med04.png Graphic file (type png)
+<use img/med04.png>
+Package pdftex.def Info: img/med04.png used on input line 81.
+(pdftex.def)             Requested size: 403.26468pt x 108.59807pt.
+<img/med05.png, id=336, 3053.4075pt x 2198.2125pt>
+File: img/med05.png Graphic file (type png)
+<use img/med05.png>
+Package pdftex.def Info: img/med05.png used on input line 89.
+(pdftex.def)             Requested size: 448.0749pt x 322.57321pt.
+[5 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/med01.png> 
+<W:/Documents/Dropbox/Development/Iterative Function Systems/img/med02.png> <W:
+/Documents/Dropbox/Development/Iterative Function Systems/img/med03.png>] [6 <W
+:/Documents/Dropbox/Development/Iterative Function Systems/img/med04.png> <W:/D
+ocuments/Dropbox/Development/Iterative Function Systems/img/med05.png>] <img/gu
+i01.png, id=355, 395.22656pt x 211.54031pt>
+File: img/gui01.png Graphic file (type png)
+<use img/gui01.png>
+Package pdftex.def Info: img/gui01.png used on input line 131.
+(pdftex.def)             Requested size: 224.03745pt x 119.91428pt.
+<img/gui02.png, id=356, 340.27126pt x 317.68687pt>
+File: img/gui02.png Graphic file (type png)
+<use img/gui02.png>
+Package pdftex.def Info: img/gui02.png used on input line 145.
+(pdftex.def)             Requested size: 167.98047pt x 156.82895pt.
+<img/gui03.png, id=357, 179.16937pt x 283.81032pt>
+File: img/gui03.png Graphic file (type png)
+<use img/gui03.png>
+Package pdftex.def Info: img/gui03.png used on input line 147.
+(pdftex.def)             Requested size: 99.00821pt x 156.82895pt.
+[7
+
+ <W:/Documents/Dropbox/Development/Iterative Function Systems/img/gui01.png>] <
+img/identity01.png, id=371, 170.88844pt x 100.12407pt>
+File: img/identity01.png Graphic file (type png)
+<use img/identity01.png>
+Package pdftex.def Info: img/identity01.png used on input line 167.
+(pdftex.def)             Requested size: 134.42383pt x 78.76408pt.
+<img/gui04.png, id=373, 168.63pt x 264.99pt>
+File: img/gui04.png Graphic file (type png)
+<use img/gui04.png>
+Package pdftex.def Info: img/gui04.png used on input line 185.
+(pdftex.def)             Requested size: 89.6136pt x 140.82411pt.
+[8 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/gui02.png> 
+<W:/Documents/Dropbox/Development/Iterative Function Systems/img/gui03.png> <W:
+/Documents/Dropbox/Development/Iterative Function Systems/img/identity01.png>] 
+<img/baselayer01.png, id=384, 148.30406pt x 120.45pt>
+File: img/baselayer01.png Graphic file (type png)
+<use img/baselayer01.png>
+Package pdftex.def Info: img/baselayer01.png used on input line 202.
+(pdftex.def)             Requested size: 89.6136pt x 72.78516pt.
+<img/baselayer02.png, id=385, 253.69781pt x 185.19188pt>
+File: img/baselayer02.png Graphic file (type png)
+<use img/baselayer02.png>
+Package pdftex.def Info: img/baselayer02.png used on input line 212.
+(pdftex.def)             Requested size: 134.42383pt x 98.1286pt.
+<img/baselayer03.png, id=386, 554.07pt x 453.19313pt>
+File: img/baselayer03.png Graphic file (type png)
+<use img/baselayer03.png>
+Package pdftex.def Info: img/baselayer03.png used on input line 215.
+(pdftex.def)             Requested size: 201.63234pt x 164.91968pt.
+[9 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/gui04.png> 
+<W:/Documents/Dropbox/Development/Iterative Function Systems/img/baselayer01.pn
+g> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/baselayer02
+.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/baselaye
+r03.png>] <img/baselayer04.png, id=399, 386.94562pt x 322.20375pt>
+File: img/baselayer04.png Graphic file (type png)
+<use img/baselayer04.png>
+Package pdftex.def Info: img/baselayer04.png used on input line 238.
+(pdftex.def)             Requested size: 134.42383pt x 111.93228pt.
+<img/dragon01.png, id=401, 240.14719pt x 174.6525pt>
+File: img/dragon01.png Graphic file (type png)
+<use img/dragon01.png>
+Package pdftex.def Info: img/dragon01.png used on input line 256.
+(pdftex.def)             Requested size: 134.42383pt x 97.76476pt.
+<img/dragon02.png, id=402, 283.0575pt x 219.06844pt>
+File: img/dragon02.png Graphic file (type png)
+<use img/dragon02.png>
+Package pdftex.def Info: img/dragon02.png used on input line 259.
+(pdftex.def)             Requested size: 134.42383pt x 104.03851pt.
+<img/dragon03.png, id=405, 1982.40625pt x 1336.995pt>
+File: img/dragon03.png Graphic file (type png)
+<use img/dragon03.png>
+Package pdftex.def Info: img/dragon03.png used on input line 270.
+(pdftex.def)             Requested size: 430.1549pt x 290.10043pt.
+[10 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/baselayer0
+4.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/dragon0
+1.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/dragon0
+2.png>] <img/levyc01.png, id=416, 228.855pt x 154.32657pt>
+File: img/levyc01.png Graphic file (type png)
+<use img/levyc01.png>
+Package pdftex.def Info: img/levyc01.png used on input line 282.
+(pdftex.def)             Requested size: 134.42383pt x 90.65155pt.
+<img/levyc02.png, id=417, 1689.31125pt x 1061.9675pt>
+File: img/levyc02.png Graphic file (type png)
+<use img/levyc02.png>
+Package pdftex.def Info: img/levyc02.png used on input line 290.
+(pdftex.def)             Requested size: 403.26468pt x 253.50003pt.
+[11 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/dragon03.p
+ng> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/levyc01.pn
+g>] <img/snowflake_setup.png, id=425, 490.83376pt x 197.98969pt>
+File: img/snowflake_setup.png Graphic file (type png)
+<use img/snowflake_setup.png>
+Package pdftex.def Info: img/snowflake_setup.png used on input line 303.
+(pdftex.def)             Requested size: 219.55916pt x 88.56282pt.
+<img/snowflake_setup02.png, id=426, 505.89pt x 214.55156pt>
+File: img/snowflake_setup02.png Graphic file (type png)
+<use img/snowflake_setup02.png>
+Package pdftex.def Info: img/snowflake_setup02.png used on input line 308.
+(pdftex.def)             Requested size: 219.55916pt x 93.11636pt.
+<img/snowflake_setup03.png, id=428, 394.47375pt x 348.55219pt>
+File: img/snowflake_setup03.png Graphic file (type png)
+<use img/snowflake_setup03.png>
+Package pdftex.def Info: img/snowflake_setup03.png used on input line 325.
+(pdftex.def)             Requested size: 134.42383pt x 118.77208pt.
+<img/snowflake_draw.png, id=430, 763.85374pt x 772.8875pt>
+File: img/snowflake_draw.png Graphic file (type png)
+<use img/snowflake_draw.png>
+Package pdftex.def Info: img/snowflake_draw.png used on input line 333.
+(pdftex.def)             Requested size: 268.84767pt x 272.02422pt.
+[12 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/levyc02.pn
+g> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/snowflake_s
+etup.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/snow
+flake_setup02.png>] [13 <W:/Documents/Dropbox/Development/Iterative Function Sy
+stems/img/snowflake_setup03.png> <W:/Documents/Dropbox/Development/Iterative Fu
+nction Systems/img/snowflake_draw.png>] <img/quadratic_01setup.png, id=449, 472
+.76625pt x 214.55156pt>
+File: img/quadratic_01setup.png Graphic file (type png)
+<use img/quadratic_01setup.png>
+Package pdftex.def Info: img/quadratic_01setup.png used on input line 345.
+(pdftex.def)             Requested size: 134.42383pt x 61.00377pt.
+<img/quadratic_01draw.png, id=450, 3427.80624pt x 1649.16125pt>
+File: img/quadratic_01draw.png Graphic file (type png)
+<use img/quadratic_01draw.png>
+Package pdftex.def Info: img/quadratic_01draw.png used on input line 346.
+(pdftex.def)             Requested size: 300.20937pt x 144.417pt.
+<img/quadratic_02setup.png, id=451, 605.26125pt x 347.04657pt>
+File: img/quadratic_02setup.png Graphic file (type png)
+<use img/quadratic_02setup.png>
+Package pdftex.def Info: img/quadratic_02setup.png used on input line 352.
+(pdftex.def)             Requested size: 134.42383pt x 77.07596pt.
+<img/quadratic_02draw.png, id=452, 3427.80624pt x 1593.955pt>
+File: img/quadratic_02draw.png Graphic file (type png)
+<use img/quadratic_02draw.png>
+Package pdftex.def Info: img/quadratic_02draw.png used on input line 353.
+(pdftex.def)             Requested size: 300.20937pt x 139.5826pt.
+
+<img/Simple_Variations/koch_variation_01.png, id=454, 2742.245pt x 1339.0025pt>
+File: img/Simple_Variations/koch_variation_01.png Graphic file (type png)
+<use img/Simple_Variations/koch_variation_01.png>
+Package pdftex.def Info: img/Simple_Variations/koch_variation_01.png used on in
+put line 369.
+(pdftex.def)             Requested size: 219.55916pt x 107.20412pt.
+
+<img/Simple_Variations/koch_variation_02.png, id=455, 2058.69125pt x 1004.75375
+pt>
+File: img/Simple_Variations/koch_variation_02.png Graphic file (type png)
+<use img/Simple_Variations/koch_variation_02.png>
+Package pdftex.def Info: img/Simple_Variations/koch_variation_02.png used on in
+put line 370.
+(pdftex.def)             Requested size: 219.55916pt x 107.15036pt.
+
+<img/Simple_Variations/koch_variation_03.png, id=456, 2058.69125pt x 939.51pt>
+File: img/Simple_Variations/koch_variation_03.png Graphic file (type png)
+<use img/Simple_Variations/koch_variation_03.png>
+Package pdftex.def Info: img/Simple_Variations/koch_variation_03.png used on in
+put line 371.
+(pdftex.def)             Requested size: 219.55916pt x 100.19255pt.
+
+<img/Simple_Variations/koch_variation_04.png, id=457, 2058.69125pt x 1004.75375
+pt>
+File: img/Simple_Variations/koch_variation_04.png Graphic file (type png)
+<use img/Simple_Variations/koch_variation_04.png>
+Package pdftex.def Info: img/Simple_Variations/koch_variation_04.png used on in
+put line 372.
+(pdftex.def)             Requested size: 219.55916pt x 107.15036pt.
+[14
+
+ <W:/Documents/Dropbox/Development/Iterative Function Systems/img/quadratic_01s
+etup.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/quad
+ratic_01draw.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/
+img/quadratic_02setup.png> <W:/Documents/Dropbox/Development/Iterative Function
+ Systems/img/quadratic_02draw.png>]) [15 <W:/Documents/Dropbox/Development/Iter
+ative Function Systems/img/Simple_Variations/koch_variation_01.png> <W:/Documen
+ts/Dropbox/Development/Iterative Function Systems/img/Simple_Variations/koch_va
+riation_02.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/im
+g/Simple_Variations/koch_variation_03.png> <W:/Documents/Dropbox/Development/It
+erative Function Systems/img/Simple_Variations/koch_variation_04.png>]
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/simple_t
+echniques.tex"
+<img/Simple_Techniques/Spirals/spiral_setup_01.png, id=478, 316.18124pt x 165.6
+1874pt>
+File: img/Simple_Techniques/Spirals/spiral_setup_01.png Graphic file (type png)
+
+<use img/Simple_Techniques/Spirals/spiral_setup_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_setup_01.png used
+ on input line 11.
+(pdftex.def)             Requested size: 179.22722pt x 93.88307pt.
+
+<img/Simple_Techniques/Spirals/spiral_simple_01.png, id=479, 1083.04625pt x 100
+4.75375pt>
+File: img/Simple_Techniques/Spirals/spiral_simple_01.png Graphic file (type png
+)
+<use img/Simple_Techniques/Spirals/spiral_simple_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_simple_01.png use
+d on input line 17.
+(pdftex.def)             Requested size: 107.54044pt x 99.76068pt.
+
+<img/Simple_Techniques/Spirals/spiral_simple_02.png, id=480, 1064.97874pt x 867
+.24pt>
+File: img/Simple_Techniques/Spirals/spiral_simple_02.png Graphic file (type png
+)
+<use img/Simple_Techniques/Spirals/spiral_simple_02.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_simple_02.png use
+d on input line 18.
+(pdftex.def)             Requested size: 107.54044pt x 87.56276pt.
+
+<img/Simple_Techniques/Spirals/spiral_simple_04.png, id=481, 793.96625pt x 867.
+24pt>
+File: img/Simple_Techniques/Spirals/spiral_simple_04.png Graphic file (type png
+)
+<use img/Simple_Techniques/Spirals/spiral_simple_04.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_simple_04.png use
+d on input line 20.
+(pdftex.def)             Requested size: 107.54044pt x 117.4561pt.
+
+<img/Simple_Techniques/Spirals/spiral_simple_05.png, id=482, 968.61874pt x 939.
+51pt>
+File: img/Simple_Techniques/Spirals/spiral_simple_05.png Graphic file (type png
+)
+<use img/Simple_Techniques/Spirals/spiral_simple_05.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_simple_05.png use
+d on input line 21.
+(pdftex.def)             Requested size: 107.54044pt x 104.30692pt.
+
+<img/Simple_Techniques/Spirals/spiral_diver_01.png, id=483, 1268.74pt x 1026.83
+624pt>
+File: img/Simple_Techniques/Spirals/spiral_diver_01.png Graphic file (type png)
+
+<use img/Simple_Techniques/Spirals/spiral_diver_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_diver_01.png used
+ on input line 38.
+(pdftex.def)             Requested size: 110.71634pt x 89.6136pt.
+
+<img/Simple_Techniques/Spirals/spiral_diver_02.png, id=484, 1008.76875pt x 1019
+.81pt>
+File: img/Simple_Techniques/Spirals/spiral_diver_02.png Graphic file (type png)
+
+<use img/Simple_Techniques/Spirals/spiral_diver_02.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_diver_02.png used
+ on input line 39.
+(pdftex.def)             Requested size: 88.63031pt x 89.6136pt.
+[16
+
+
+ <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Techni
+ques/Spirals/spiral_setup_01.png> <W:/Documents/Dropbox/Development/Iterative F
+unction Systems/img/Simple_Techniques/Spirals/spiral_simple_01.png> <W:/Documen
+ts/Dropbox/Development/Iterative Function Systems/img/Simple_Techniques/Spirals
+/spiral_simple_02.png> <W:/Documents/Dropbox/Development/Iterative Function Sys
+tems/img/Simple_Techniques/Spirals/spiral_simple_04.png> <W:/Documents/Dropbox/
+Development/Iterative Function Systems/img/Simple_Techniques/Spirals/spiral_sim
+ple_05.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Si
+mple_Techniques/Spirals/spiral_diver_01.png> <W:/Documents/Dropbox/Development/
+Iterative Function Systems/img/Simple_Techniques/Spirals/spiral_diver_02.png>]
+<img/Simple_Techniques/Spirals/spiral_diver_setup_01.png, id=501, 289.83281pt x
+ 287.57437pt>
+File: img/Simple_Techniques/Spirals/spiral_diver_setup_01.png Graphic file (typ
+e png)
+<use img/Simple_Techniques/Spirals/spiral_diver_setup_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_diver_setup_01.pn
+g used on input line 55.
+(pdftex.def)             Requested size: 135.48288pt x 134.42383pt.
+
+<img/Simple_Techniques/Spirals/spiral_set_02_01.png, id=502, 249.93375pt x 249.
+93375pt>
+File: img/Simple_Techniques/Spirals/spiral_set_02_01.png Graphic file (type png
+)
+<use img/Simple_Techniques/Spirals/spiral_set_02_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_set_02_01.png use
+d on input line 69.
+(pdftex.def)             Requested size: 134.4283pt x 134.42383pt.
+
+<img/Simple_Techniques/Spirals/spiral_set_02_02.png, id=503, 146.79843pt x 208.
+52907pt>
+File: img/Simple_Techniques/Spirals/spiral_set_02_02.png Graphic file (type png
+)
+<use img/Simple_Techniques/Spirals/spiral_set_02_02.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_set_02_02.png use
+d on input line 70.
+(pdftex.def)             Requested size: 94.6361pt x 134.42383pt.
+
+<img/Simple_Techniques/Spirals/spiral_04.png, id=505, 911.405pt x 824.07875pt>
+File: img/Simple_Techniques/Spirals/spiral_04.png Graphic file (type png)
+<use img/Simple_Techniques/Spirals/spiral_04.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_04.png used on in
+put line 83.
+(pdftex.def)             Requested size: 99.10059pt x 89.6136pt.
+<img/Simple_Techniques/Spirals/spiral_05.png, id=506, 630.355pt x 668.4975pt>
+File: img/Simple_Techniques/Spirals/spiral_05.png Graphic file (type png)
+<use img/Simple_Techniques/Spirals/spiral_05.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_05.png used on in
+put line 84.
+(pdftex.def)             Requested size: 84.49791pt x 89.6136pt.
+<img/Simple_Techniques/Spirals/spiral_06.png, id=507, 847.165pt x 700.6175pt>
+File: img/Simple_Techniques/Spirals/spiral_06.png Graphic file (type png)
+<use img/Simple_Techniques/Spirals/spiral_06.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_06.png used on in
+put line 85.
+(pdftex.def)             Requested size: 108.35143pt x 89.6136pt.
+<img/Simple_Techniques/Spirals/spiral_07.png, id=508, 847.165pt x 704.6325pt>
+File: img/Simple_Techniques/Spirals/spiral_07.png Graphic file (type png)
+<use img/Simple_Techniques/Spirals/spiral_07.png>
+Package pdftex.def Info: img/Simple_Techniques/Spirals/spiral_07.png used on in
+put line 86.
+(pdftex.def)             Requested size: 107.73094pt x 89.6136pt.
+[17 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Tec
+hniques/Spirals/spiral_diver_setup_01.png> <W:/Documents/Dropbox/Development/It
+erative Function Systems/img/Simple_Techniques/Spirals/spiral_set_02_01.png> <W
+:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Technique
+s/Spirals/spiral_set_02_02.png>]
+LaTeX Font Info:    Try loading font information for TS1+lmr on input line 98.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\ts1lmr.fd"
+File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+<img/Simple_Techniques/Trees/tree_set_01.png, id=519, 286.06876pt x 303.38344pt
+>
+File: img/Simple_Techniques/Trees/tree_set_01.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_set_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_set_01.png used on in
+put line 103.
+(pdftex.def)             Requested size: 126.75238pt x 134.42383pt.
+<img/Simple_Techniques/Trees/tree_01.png, id=520, 991.705pt x 760.8425pt>
+File: img/Simple_Techniques/Trees/tree_01.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_01.png used on input 
+line 104.
+(pdftex.def)             Requested size: 233.6106pt x 179.22722pt.
+<img/Simple_Techniques/Trees/tree_02.png, id=522, 817.0525pt x 1061.9675pt>
+File: img/Simple_Techniques/Trees/tree_02.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_02.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_02.png used on input 
+line 116.
+(pdftex.def)             Requested size: 120.98213pt x 157.2465pt.
+<img/Simple_Techniques/Trees/tree_03.png, id=523, 1166.3575pt x 1061.9675pt>
+File: img/Simple_Techniques/Trees/tree_03.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_03.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_03.png used on input 
+line 117.
+(pdftex.def)             Requested size: 120.98213pt x 110.14061pt.
+<img/Simple_Techniques/Trees/tree_04.png, id=524, 1359.0775pt x 1061.9675pt>
+File: img/Simple_Techniques/Trees/tree_04.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_04.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_04.png used on input 
+line 118.
+(pdftex.def)             Requested size: 120.98213pt x 94.51967pt.
+<img/Simple_Techniques/Trees/tree_05.png, id=525, 1106.1325pt x 827.09pt>
+File: img/Simple_Techniques/Trees/tree_05.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_05.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_05.png used on input 
+line 119.
+(pdftex.def)             Requested size: 120.98213pt x 90.45012pt.
+<img/Simple_Techniques/Trees/tree_06.png, id=526, 1274.7625pt x 1061.9675pt>
+File: img/Simple_Techniques/Trees/tree_06.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_06.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_06.png used on input 
+line 120.
+(pdftex.def)             Requested size: 120.98213pt x 100.77452pt.
+<img/Simple_Techniques/Trees/tree_07.png, id=527, 1383.1675pt x 1061.9675pt>
+File: img/Simple_Techniques/Trees/tree_07.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_07.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_07.png used on input 
+line 121.
+(pdftex.def)             Requested size: 120.98213pt x 92.88303pt.
+[18 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Tec
+hniques/Spirals/spiral_04.png> <W:/Documents/Dropbox/Development/Iterative Func
+tion Systems/img/Simple_Techniques/Spirals/spiral_05.png> <W:/Documents/Dropbox
+/Development/Iterative Function Systems/img/Simple_Techniques/Spirals/spiral_06
+.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_T
+echniques/Spirals/spiral_07.png> <W:/Documents/Dropbox/Development/Iterative Fu
+nction Systems/img/Simple_Techniques/Trees/tree_set_01.png> <W:/Documents/Dropb
+ox/Development/Iterative Function Systems/img/Simple_Techniques/Trees/tree_01.p
+ng>] <img/Simple_Techniques/Trees/tree_08.png, id=542, 1039.885pt x 1099.10625p
+t>
+File: img/Simple_Techniques/Trees/tree_08.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_08.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_08.png used on input 
+line 138.
+(pdftex.def)             Requested size: 143.38724pt x 151.54265pt.
+
+<img/Simple_Techniques/Trees/tree_09.png, id=543, 1382.16376pt x 1020.81375pt>
+File: img/Simple_Techniques/Trees/tree_09.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_09.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_09.png used on input 
+line 139.
+(pdftex.def)             Requested size: 143.38724pt x 105.88797pt.
+<img/Simple_Techniques/Trees/tree_10.png, id=544, 956.57375pt x 1061.9675pt>
+File: img/Simple_Techniques/Trees/tree_10.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_10.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_10.png used on input 
+line 140.
+(pdftex.def)             Requested size: 143.38724pt x 159.17482pt.
+
+<img/Simple_Techniques/Trees/tree_set_02.png, id=545, 161.10187pt x 230.36063pt
+>
+File: img/Simple_Techniques/Trees/tree_set_02.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_set_02.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_set_02.png used on in
+put line 152.
+(pdftex.def)             Requested size: 94.00699pt x 134.42383pt.
+
+<img/Simple_Techniques/Trees/tree_set_03.png, id=546, 154.32657pt x 231.11343pt
+>
+File: img/Simple_Techniques/Trees/tree_set_03.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_set_03.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_set_03.png used on in
+put line 153.
+(pdftex.def)             Requested size: 89.76143pt x 134.42383pt.
+<img/Simple_Techniques/Trees/tree_12.png, id=547, 1375.1375pt x 1274.7625pt>
+File: img/Simple_Techniques/Trees/tree_12.png Graphic file (type png)
+<use img/Simple_Techniques/Trees/tree_12.png>
+Package pdftex.def Info: img/Simple_Techniques/Trees/tree_12.png used on input 
+line 154.
+(pdftex.def)             Requested size: 268.84767pt x 249.20985pt.
+[19 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Tec
+hniques/Trees/tree_02.png> <W:/Documents/Dropbox/Development/Iterative Function
+ Systems/img/Simple_Techniques/Trees/tree_03.png> <W:/Documents/Dropbox/Develop
+ment/Iterative Function Systems/img/Simple_Techniques/Trees/tree_04.png> <W:/Do
+cuments/Dropbox/Development/Iterative Function Systems/img/Simple_Techniques/Tr
+ees/tree_05.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/i
+mg/Simple_Techniques/Trees/tree_06.png> <W:/Documents/Dropbox/Development/Itera
+tive Function Systems/img/Simple_Techniques/Trees/tree_07.png> <W:/Documents/Dr
+opbox/Development/Iterative Function Systems/img/Simple_Techniques/Trees/tree_0
+8.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_
+Techniques/Trees/tree_09.png> <W:/Documents/Dropbox/Development/Iterative Funct
+ion Systems/img/Simple_Techniques/Trees/tree_10.png>]
+<img/Simple_Techniques/Unconnect/simple_un_lines_01.png, id=564, 1856.9375pt x 
+379.4175pt>
+File: img/Simple_Techniques/Unconnect/simple_un_lines_01.png Graphic file (type
+ png)
+<use img/Simple_Techniques/Unconnect/simple_un_lines_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Unconnect/simple_un_lines_01.png
+ used on input line 174.
+(pdftex.def)             Requested size: 448.0749pt x 91.54837pt.
+[20 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Tec
+hniques/Trees/tree_set_02.png> <W:/Documents/Dropbox/Development/Iterative Func
+tion Systems/img/Simple_Techniques/Trees/tree_set_03.png> <W:/Documents/Dropbox
+/Development/Iterative Function Systems/img/Simple_Techniques/Trees/tree_12.png
+>]
+<img/Simple_Techniques/Unconnect/simple_line_exp_01.png, id=575, 683.55376pt x 
+859.21pt>
+File: img/Simple_Techniques/Unconnect/simple_line_exp_01.png Graphic file (type
+ png)
+<use img/Simple_Techniques/Unconnect/simple_line_exp_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Unconnect/simple_line_exp_01.png
+ used on input line 185.
+(pdftex.def)             Requested size: 106.9406pt x 134.42383pt.
+
+<img/Simple_Techniques/Unconnect/simple_line_exp_02.png, id=576, 725.71124pt x 
+817.0525pt>
+File: img/Simple_Techniques/Unconnect/simple_line_exp_02.png Graphic file (type
+ png)
+<use img/Simple_Techniques/Unconnect/simple_line_exp_02.png>
+Package pdftex.def Info: img/Simple_Techniques/Unconnect/simple_line_exp_02.png
+ used on input line 188.
+(pdftex.def)             Requested size: 119.3939pt x 134.42383pt.
+
+<img/Simple_Techniques/Unconnect/simple_un_setup_triangle_01.png, id=579, 216.0
+5719pt x 330.48468pt>
+File: img/Simple_Techniques/Unconnect/simple_un_setup_triangle_01.png Graphic f
+ile (type png)
+<use img/Simple_Techniques/Unconnect/simple_un_setup_triangle_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Unconnect/simple_un_setup_triang
+le_01.png used on input line 213.
+(pdftex.def)             Requested size: 89.6136pt x 137.07294pt.
+
+<img/Simple_Techniques/Unconnect/simple_un_triangle_01.png, id=580, 1153.30875p
+t x 1002.74625pt>
+File: img/Simple_Techniques/Unconnect/simple_un_triangle_01.png Graphic file (t
+ype png)
+<use img/Simple_Techniques/Unconnect/simple_un_triangle_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Unconnect/simple_un_triangle_01.
+png used on input line 215.
+(pdftex.def)             Requested size: 268.84767pt x 233.74812pt.
+[21 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Tec
+hniques/Unconnect/simple_un_lines_01.png> <W:/Documents/Dropbox/Development/Ite
+rative Function Systems/img/Simple_Techniques/Unconnect/simple_line_exp_01.png>
+ <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Techni
+ques/Unconnect/simple_line_exp_02.png>]
+<img/Simple_Techniques/Unconnect/simple_un_setup_quad_01.png, id=591, 178.41656
+pt x 301.125pt>
+File: img/Simple_Techniques/Unconnect/simple_un_setup_quad_01.png Graphic file 
+(type png)
+<use img/Simple_Techniques/Unconnect/simple_un_setup_quad_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Unconnect/simple_un_setup_quad_0
+1.png used on input line 224.
+(pdftex.def)             Requested size: 89.6136pt x 151.24675pt.
+
+<img/Simple_Techniques/Unconnect/simple_un_quad_01.png, id=592, 1195.46625pt x 
+1031.855pt>
+File: img/Simple_Techniques/Unconnect/simple_un_quad_01.png Graphic file (type 
+png)
+<use img/Simple_Techniques/Unconnect/simple_un_quad_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Unconnect/simple_un_quad_01.png 
+used on input line 226.
+(pdftex.def)             Requested size: 268.84767pt x 232.04713pt.
+[22 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Tec
+hniques/Unconnect/simple_un_setup_triangle_01.png> <W:/Documents/Dropbox/Develo
+pment/Iterative Function Systems/img/Simple_Techniques/Unconnect/simple_un_tria
+ngle_01.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/S
+imple_Techniques/Unconnect/simple_un_setup_quad_01.png> <W:/Documents/Dropbox/D
+evelopment/Iterative Function Systems/img/Simple_Techniques/Unconnect/simple_un
+_quad_01.png>]
+<img/Simple_Techniques/Singleton/simple_singleton_01.png, id=603, 411.03563pt x
+ 308.65312pt>
+File: img/Simple_Techniques/Singleton/simple_singleton_01.png Graphic file (typ
+e png)
+<use img/Simple_Techniques/Singleton/simple_singleton_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Singleton/simple_singleton_01.pn
+g used on input line 242.
+(pdftex.def)             Requested size: 134.42383pt x 100.93745pt.
+
+<img/Simple_Techniques/Singleton/simple_singleton_02.png, id=604, 1188.44pt x 8
+61.2175pt>
+File: img/Simple_Techniques/Singleton/simple_singleton_02.png Graphic file (typ
+e png)
+<use img/Simple_Techniques/Singleton/simple_singleton_02.png>
+Package pdftex.def Info: img/Simple_Techniques/Singleton/simple_singleton_02.pn
+g used on input line 244.
+(pdftex.def)             Requested size: 268.84767pt x 194.81686pt.
+
+<img/Simple_Techniques/Singleton/simple_single_setup_02.png, id=606, 131.74219p
+t x 88.07906pt>
+File: img/Simple_Techniques/Singleton/simple_single_setup_02.png Graphic file (
+type png)
+<use img/Simple_Techniques/Singleton/simple_single_setup_02.png>
+Package pdftex.def Info: img/Simple_Techniques/Singleton/simple_single_setup_02
+.png used on input line 255.
+(pdftex.def)             Requested size: 134.42383pt x 89.87572pt.
+
+<img/Simple_Techniques/Singleton/simple_single_setup_03.png, id=609, 321.45094p
+t x 246.9225pt>
+File: img/Simple_Techniques/Singleton/simple_single_setup_03.png Graphic file (
+type png)
+<use img/Simple_Techniques/Singleton/simple_single_setup_03.png>
+Package pdftex.def Info: img/Simple_Techniques/Singleton/simple_single_setup_03
+.png used on input line 266.
+(pdftex.def)             Requested size: 134.42383pt x 103.25836pt.
+
+<img/Simple_Techniques/Singleton/simple_single_02.png, id=610, 1333.98375pt x 8
+87.315pt>
+File: img/Simple_Techniques/Singleton/simple_single_02.png Graphic file (type p
+ng)
+<use img/Simple_Techniques/Singleton/simple_single_02.png>
+Package pdftex.def Info: img/Simple_Techniques/Singleton/simple_single_02.png u
+sed on input line 268.
+(pdftex.def)             Requested size: 268.84767pt x 178.82732pt.
+[23
+
+ <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Techni
+ques/Singleton/simple_singleton_01.png> <W:/Documents/Dropbox/Development/Itera
+tive Function Systems/img/Simple_Techniques/Singleton/simple_singleton_02.png> 
+<W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Techniq
+ues/Singleton/simple_single_setup_02.png>]
+<img/Simple_Techniques/Singleton/simple_single_03.png, id=622, 1279.78125pt x 9
+11.405pt>
+File: img/Simple_Techniques/Singleton/simple_single_03.png Graphic file (type p
+ng)
+<use img/Simple_Techniques/Singleton/simple_single_03.png>
+Package pdftex.def Info: img/Simple_Techniques/Singleton/simple_single_03.png u
+sed on input line 278.
+(pdftex.def)             Requested size: 179.22722pt x 127.63754pt.
+
+<img/Simple_Techniques/Singleton/simple_single_04.png, id=623, 1400.23125pt x 9
+89.6975pt>
+File: img/Simple_Techniques/Singleton/simple_single_04.png Graphic file (type p
+ng)
+<use img/Simple_Techniques/Singleton/simple_single_04.png>
+Package pdftex.def Info: img/Simple_Techniques/Singleton/simple_single_04.png u
+sed on input line 279.
+(pdftex.def)             Requested size: 179.22722pt x 126.67178pt.
+
+<img/Simple_Techniques/Decorator/simple_deco_01.png, id=625, 1050.92625pt x 731
+.73375pt>
+File: img/Simple_Techniques/Decorator/simple_deco_01.png Graphic file (type png
+)
+<use img/Simple_Techniques/Decorator/simple_deco_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Decorator/simple_deco_01.png use
+d on input line 304.
+(pdftex.def)             Requested size: 134.42383pt x 93.5879pt.
+
+<img/Simple_Techniques/Decorator/simple_deco_02.png, id=626, 1484.54625pt x 102
+5.8325pt>
+File: img/Simple_Techniques/Decorator/simple_deco_02.png Graphic file (type png
+)
+<use img/Simple_Techniques/Decorator/simple_deco_02.png>
+Package pdftex.def Info: img/Simple_Techniques/Decorator/simple_deco_02.png use
+d on input line 307.
+(pdftex.def)             Requested size: 268.84767pt x 185.76889pt.
+
+<img/Simple_Techniques/Cases/rays/ray_set_01.png, id=628, 200.24812pt x 365.866
+88pt>
+File: img/Simple_Techniques/Cases/rays/ray_set_01.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_set_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_set_01.png used o
+n input line 321.
+(pdftex.def)             Requested size: 80.65019pt x 147.35461pt.
+
+<img/Simple_Techniques/Cases/rays/ray_01.png, id=629, 1826.825pt x 945.5325pt>
+File: img/Simple_Techniques/Cases/rays/ray_01.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_01.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_01.png used on in
+put line 324.
+(pdftex.def)             Requested size: 349.49788pt x 180.89381pt.
+[24 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Tec
+hniques/Singleton/simple_single_setup_03.png> <W:/Documents/Dropbox/Development
+/Iterative Function Systems/img/Simple_Techniques/Singleton/simple_single_02.pn
+g> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Tech
+niques/Singleton/simple_single_03.png> <W:/Documents/Dropbox/Development/Iterat
+ive Function Systems/img/Simple_Techniques/Singleton/simple_single_04.png>]
+<img/Simple_Techniques/Cases/rays/ray_set_02.png, id=640, 386.94562pt x 387.698
+44pt>
+File: img/Simple_Techniques/Cases/rays/ray_set_02.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_set_02.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_set_02.png used o
+n input line 341.
+(pdftex.def)             Requested size: 134.42383pt x 134.68488pt.
+<img/Simple_Techniques/Cases/rays/ray_02.png, id=641, 971.63pt x 768.8725pt>
+File: img/Simple_Techniques/Cases/rays/ray_02.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_02.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_02.png used on in
+put line 344.
+(pdftex.def)             Requested size: 291.24594pt x 230.46408pt.
+
+<img/Simple_Techniques/Cases/rays/ray_03.png, id=642, 1965.3425pt x 515.9275pt>
+File: img/Simple_Techniques/Cases/rays/ray_03.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_03.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_03.png used on in
+put line 347.
+(pdftex.def)             Requested size: 448.0749pt x 117.62166pt.
+[25 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Tec
+hniques/Decorator/simple_deco_01.png> <W:/Documents/Dropbox/Development/Iterati
+ve Function Systems/img/Simple_Techniques/Decorator/simple_deco_02.png> <W:/Doc
+uments/Dropbox/Development/Iterative Function Systems/img/Simple_Techniques/Cas
+es/rays/ray_set_01.png> <W:/Documents/Dropbox/Development/Iterative Function Sy
+stems/img/Simple_Techniques/Cases/rays/ray_01.png>]
+<img/Simple_Techniques/Cases/rays/ray_set_04.png, id=655, 234.8775pt x 385.44pt
+>
+File: img/Simple_Techniques/Cases/rays/ray_set_04.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_set_04.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_set_04.png used o
+n input line 358.
+(pdftex.def)             Requested size: 89.6136pt x 147.05685pt.
+
+<img/Simple_Techniques/Cases/rays/ray_04.png, id=656, 1399.2275pt x 865.2325pt>
+File: img/Simple_Techniques/Cases/rays/ray_04.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_04.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_04.png used on in
+put line 361.
+(pdftex.def)             Requested size: 349.49788pt x 216.10956pt.
+[26 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Tec
+hniques/Cases/rays/ray_set_02.png> <W:/Documents/Dropbox/Development/Iterative 
+Function Systems/img/Simple_Techniques/Cases/rays/ray_02.png> <W:/Documents/Dro
+pbox/Development/Iterative Function Systems/img/Simple_Techniques/Cases/rays/ra
+y_03.png>]
+<img/Simple_Techniques/Cases/rays/ray_set_06.png, id=664, 225.09094pt x 378.664
+69pt>
+File: img/Simple_Techniques/Cases/rays/ray_set_06.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_set_06.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_set_06.png used o
+n input line 368.
+(pdftex.def)             Requested size: 89.6136pt x 150.7525pt.
+
+<img/Simple_Techniques/Cases/rays/ray_06.png, id=665, 1369.115pt x 913.4125pt>
+File: img/Simple_Techniques/Cases/rays/ray_06.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_06.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_06.png used on in
+put line 371.
+(pdftex.def)             Requested size: 349.49788pt x 233.16101pt.
+
+<img/Simple_Techniques/Cases/rays/ray_set_05.png, id=666, 228.10219pt x 375.653
+44pt>
+File: img/Simple_Techniques/Cases/rays/ray_set_05.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_set_05.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_set_05.png used o
+n input line 378.
+(pdftex.def)             Requested size: 89.6136pt x 147.57613pt.
+<img/Simple_Techniques/Cases/rays/ray_05.png, id=667, 1429.34pt x 913.4125pt>
+File: img/Simple_Techniques/Cases/rays/ray_05.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_05.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_05.png used on in
+put line 381.
+(pdftex.def)             Requested size: 349.49788pt x 223.33505pt.
+[27 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_Tec
+hniques/Cases/rays/ray_set_04.png> <W:/Documents/Dropbox/Development/Iterative 
+Function Systems/img/Simple_Techniques/Cases/rays/ray_04.png> <W:/Documents/Dro
+pbox/Development/Iterative Function Systems/img/Simple_Techniques/Cases/rays/ra
+y_set_06.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/
+Simple_Techniques/Cases/rays/ray_06.png>]
+<img/Simple_Techniques/Cases/rays/ray_set_07.png, id=678, 224.33812pt x 391.462
+5pt>
+File: img/Simple_Techniques/Cases/rays/ray_set_07.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_set_07.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_set_07.png used o
+n input line 390.
+(pdftex.def)             Requested size: 89.6136pt x 156.37315pt.
+
+<img/Simple_Techniques/Cases/rays/ray_07.png, id=679, 1447.4075pt x 913.4125pt>
+File: img/Simple_Techniques/Cases/rays/ray_07.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_07.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_07.png used on in
+put line 393.
+(pdftex.def)             Requested size: 349.49788pt x 220.54755pt.
+
+<img/Simple_Techniques/Cases/rays/ray_08.png, id=680, 1134.2375pt x 945.5325pt>
+File: img/Simple_Techniques/Cases/rays/ray_08.png Graphic file (type png)
+<use img/Simple_Techniques/Cases/rays/ray_08.png>
+Package pdftex.def Info: img/Simple_Techniques/Cases/rays/ray_08.png used on in
+put line 404.
+(pdftex.def)             Requested size: 268.84767pt x 224.11905pt.
+) [28 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Simple_T
+echniques/Cases/rays/ray_set_05.png> <W:/Documents/Dropbox/Development/Iterativ
+e Function Systems/img/Simple_Techniques/Cases/rays/ray_05.png> <W:/Documents/D
+ropbox/Development/Iterative Function Systems/img/Simple_Techniques/Cases/rays/
+ray_set_07.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/im
+g/Simple_Techniques/Cases/rays/ray_07.png>] [29 <W:/Documents/Dropbox/Developme
+nt/Iterative Function Systems/img/Simple_Techniques/Cases/rays/ray_08.png>]
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/advanced
+_techniques.tex"
+<img/Advanced_Techniques/Step/step_set_02.png, id=698, 134.00063pt x 294.34969p
+t>
+File: img/Advanced_Techniques/Step/step_set_02.png Graphic file (type png)
+<use img/Advanced_Techniques/Step/step_set_02.png>
+Package pdftex.def Info: img/Advanced_Techniques/Step/step_set_02.png used on i
+nput line 15.
+(pdftex.def)             Requested size: 61.19528pt x 134.42383pt.
+
+<img/Advanced_Techniques/Step/step_set_01.png, id=699, 127.97812pt x 212.29312p
+t>
+File: img/Advanced_Techniques/Step/step_set_01.png Graphic file (type png)
+<use img/Advanced_Techniques/Step/step_set_01.png>
+Package pdftex.def Info: img/Advanced_Techniques/Step/step_set_01.png used on i
+nput line 18.
+(pdftex.def)             Requested size: 81.03867pt x 134.42383pt.
+<img/Advanced_Techniques/Step/step_01.png, id=700, 1965.3425pt x 855.195pt>
+File: img/Advanced_Techniques/Step/step_01.png Graphic file (type png)
+<use img/Advanced_Techniques/Step/step_01.png>
+Package pdftex.def Info: img/Advanced_Techniques/Step/step_01.png used on input
+ line 22.
+(pdftex.def)             Requested size: 403.26468pt x 175.4727pt.
+
+<img/Advanced_Techniques/Step/step_set_03.png, id=701, 262.73157pt x 323.70938p
+t>
+File: img/Advanced_Techniques/Step/step_set_03.png Graphic file (type png)
+<use img/Advanced_Techniques/Step/step_set_03.png>
+Package pdftex.def Info: img/Advanced_Techniques/Step/step_set_03.png used on i
+nput line 35.
+(pdftex.def)             Requested size: 112.01872pt x 138.01674pt.
+<img/Advanced_Techniques/Step/step_03.png, id=702, 1007.765pt x 945.5325pt>
+File: img/Advanced_Techniques/Step/step_03.png Graphic file (type png)
+<use img/Advanced_Techniques/Step/step_03.png>
+Package pdftex.def Info: img/Advanced_Techniques/Step/step_03.png used on input
+ line 38.
+(pdftex.def)             Requested size: 224.03745pt x 210.19637pt.
+[30
+
+
+ <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Advanced_Tech
+niques/Step/step_set_02.png> <W:/Documents/Dropbox/Development/Iterative Functi
+on Systems/img/Advanced_Techniques/Step/step_set_01.png> <W:/Documents/Dropbox/
+Development/Iterative Function Systems/img/Advanced_Techniques/Step/step_01.png
+>] <img/Advanced_Techniques/Mixing/mix_01.png, id=713, 1778.645pt x 1214.5375pt
+>
+File: img/Advanced_Techniques/Mixing/mix_01.png Graphic file (type png)
+<use img/Advanced_Techniques/Mixing/mix_01.png>
+Package pdftex.def Info: img/Advanced_Techniques/Mixing/mix_01.png used on inpu
+t line 50.
+(pdftex.def)             Requested size: 358.46129pt x 244.77496pt.
+) [31 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Advanced
+_Techniques/Step/step_set_03.png> <W:/Documents/Dropbox/Development/Iterative F
+unction Systems/img/Advanced_Techniques/Step/step_03.png> <W:/Documents/Dropbox
+/Development/Iterative Function Systems/img/Advanced_Techniques/Mixing/mix_01.p
+ng>]
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/randomne
+ss.tex" <img/Randomness/Node/ran_tree_01.png, id=726, 161.10187pt x 252.945pt>
+File: img/Randomness/Node/ran_tree_01.png Graphic file (type png)
+<use img/Randomness/Node/ran_tree_01.png>
+Package pdftex.def Info: img/Randomness/Node/ran_tree_01.png used on input line
+ 41.
+(pdftex.def)             Requested size: 85.61711pt x 134.42383pt.
+<img/Randomness/Node/ran_tree_02.png, id=727, 213.79875pt x 296.60812pt>
+File: img/Randomness/Node/ran_tree_02.png Graphic file (type png)
+<use img/Randomness/Node/ran_tree_02.png>
+Package pdftex.def Info: img/Randomness/Node/ran_tree_02.png used on input line
+ 44.
+(pdftex.def)             Requested size: 96.89688pt x 134.42383pt.
+<img/Randomness/Node/ran_tree_03.png, id=729, 1261.71375pt x 635.37375pt>
+File: img/Randomness/Node/ran_tree_03.png Graphic file (type png)
+<use img/Randomness/Node/ran_tree_03.png>
+Package pdftex.def Info: img/Randomness/Node/ran_tree_03.png used on input line
+ 53.
+(pdftex.def)             Requested size: 403.26468pt x 203.07167pt.
+[32
+
+
+ <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Randomness/No
+de/ran_tree_01.png> <W:/Documents/Dropbox/Development/Iterative Function System
+s/img/Randomness/Node/ran_tree_02.png>] <img/Randomness/Node/ran_path_01.png, i
+d=740, 389.95688pt x 218.31563pt>
+File: img/Randomness/Node/ran_path_01.png Graphic file (type png)
+<use img/Randomness/Node/ran_path_01.png>
+Package pdftex.def Info: img/Randomness/Node/ran_path_01.png used on input line
+ 70.
+(pdftex.def)             Requested size: 129.9387pt x 72.74393pt.
+<img/Randomness/Node/ran_path_02.png, id=741, 995.72pt x 584.1825pt>
+File: img/Randomness/Node/ran_path_02.png Graphic file (type png)
+<use img/Randomness/Node/ran_path_02.png>
+Package pdftex.def Info: img/Randomness/Node/ran_path_02.png used on input line
+ 73.
+(pdftex.def)             Requested size: 264.36255pt x 155.10178pt.
+<img/Randomness/Node/ran_spir_set_01.png, id=742, 304.13625pt x 147.55125pt>
+File: img/Randomness/Node/ran_spir_set_01.png Graphic file (type png)
+<use img/Randomness/Node/ran_spir_set_01.png>
+Package pdftex.def Info: img/Randomness/Node/ran_spir_set_01.png used on input 
+line 85.
+(pdftex.def)             Requested size: 129.9387pt x 63.04053pt.
+<img/Randomness/Node/ran_spir_01.png, id=743, 876.27374pt x 588.1975pt>
+File: img/Randomness/Node/ran_spir_01.png Graphic file (type png)
+<use img/Randomness/Node/ran_spir_01.png>
+Package pdftex.def Info: img/Randomness/Node/ran_spir_01.png used on input line
+ 88.
+(pdftex.def)             Requested size: 264.36255pt x 177.45685pt.
+[33 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Randomness
+/Node/ran_tree_03.png> <W:/Documents/Dropbox/Development/Iterative Function Sys
+tems/img/Randomness/Node/ran_path_01.png> <W:/Documents/Dropbox/Development/Ite
+rative Function Systems/img/Randomness/Node/ran_path_02.png>] <img/Randomness/N
+ode/ran_spir_02.png, id=752, 442.65375pt x 457.71pt>
+File: img/Randomness/Node/ran_spir_02.png Graphic file (type png)
+<use img/Randomness/Node/ran_spir_02.png>
+Package pdftex.def Info: img/Randomness/Node/ran_spir_02.png used on input line
+ 96.
+(pdftex.def)             Requested size: 129.9387pt x 134.35979pt.
+<img/Randomness/Node/ran_spir_03.png, id=753, 428.60126pt x 401.5pt>
+File: img/Randomness/Node/ran_spir_03.png Graphic file (type png)
+<use img/Randomness/Node/ran_spir_03.png>
+Package pdftex.def Info: img/Randomness/Node/ran_spir_03.png used on input line
+ 97.
+(pdftex.def)             Requested size: 129.9387pt x 121.71909pt.
+<img/Randomness/Node/ran_spir_04.png, id=754, 748.7975pt x 720.6925pt>
+File: img/Randomness/Node/ran_spir_04.png Graphic file (type png)
+<use img/Randomness/Node/ran_spir_04.png>
+Package pdftex.def Info: img/Randomness/Node/ran_spir_04.png used on input line
+ 98.
+(pdftex.def)             Requested size: 129.9387pt x 125.05638pt.
+) [34 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Randomne
+ss/Node/ran_spir_set_01.png> <W:/Documents/Dropbox/Development/Iterative Functi
+on Systems/img/Randomness/Node/ran_spir_01.png> <W:/Documents/Dropbox/Developme
+nt/Iterative Function Systems/img/Randomness/Node/ran_spir_02.png> <W:/Document
+s/Dropbox/Development/Iterative Function Systems/img/Randomness/Node/ran_spir_0
+3.png> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/Randomn
+ess/Node/ran_spir_04.png>]
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/used_tec
+hnologies.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 9--11
+
+ []
+
+LaTeX Font Info:    Try loading font information for T1+lmtt on input line 12.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\lm\t1lmtt.fd"
+File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
+) [35
+
+
+] [36]) [37]
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/implemen
+tation_details.tex" [38
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 73--74
+
+ []
+
+<img/explain01.png, id=840, 323.7696pt x 267.399pt>
+File: img/explain01.png Graphic file (type png)
+<use img/explain01.png>
+Package pdftex.def Info: img/explain01.png used on input line 107.
+(pdftex.def)             Requested size: 194.26326pt x 160.44063pt.
+<img/explain02.png, id=841, 355.92975pt x 265.2309pt>
+File: img/explain02.png Graphic file (type png)
+<use img/explain02.png>
+Package pdftex.def Info: img/explain02.png used on input line 120.
+(pdftex.def)             Requested size: 213.5595pt x 159.13976pt.
+[39 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/explain01.
+png>] <img/explain04.png, id=859, 389.89665pt x 275.3487pt>
+File: img/explain04.png Graphic file (type png)
+<use img/explain04.png>
+Package pdftex.def Info: img/explain04.png used on input line 131.
+(pdftex.def)             Requested size: 233.93979pt x 165.21048pt.
+<img/explain05.png, id=860, 319.4334pt x 213.1965pt>
+File: img/explain05.png Graphic file (type png)
+<use img/explain05.png>
+Package pdftex.def Info: img/explain05.png used on input line 141.
+(pdftex.def)             Requested size: 191.6615pt x 127.91887pt.
+[40 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/explain02.
+png> <W:/Documents/Dropbox/Development/Iterative Function Systems/img/explain04
+.png>]
+Overfull \hbox (49.93016pt too wide) in paragraph at lines 162--164
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[41 <W:/Documents/Dropbox/Development/Iterative Function Systems/img/explain05.
+png>]
+Overfull \hbox (4.83525pt too wide) in paragraph at lines 203--208
+\T1/lmr/m/n/10 The ex-e-cu-tion can be stopped by \T1/lmtt/m/n/10 clearTimeout(
+timeout) \T1/lmr/m/n/10 and, re-spec-tively \T1/lmtt/m/n/10 clearInterval(inter
+val)\T1/lmr/m/n/10 . 
+ []
+
+[42]) [43]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 90.
+[44
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 90.
+("W:\Documents\Dropbox\Development\Iterative Function Systems\IFS.aux"
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/introduc
+tion.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/demonstr
+ation.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/simple_t
+echniques.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/advanced
+_techniques.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/randomne
+ss.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/used_tec
+hnologies.aux")
+("W:\Documents\Dropbox\Development\Iterative Function Systems\chapters/implemen
+tation_details.aux"))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 90.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 90.
+
+Package rerunfilecheck Warning: File `IFS.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `IFS.out':
+(rerunfilecheck)             Before: 6CF9F1D83F6159E525D3A85066B5A9DF;4060
+(rerunfilecheck)             After:  FD5A7702E3156C35BCC69CF1FFF24930;3888.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 90.
+ ) 
+Here is how much of TeX's memory you used:
+ 12123 strings out of 493921
+ 198126 string characters out of 3144879
+ 277709 words of memory out of 3000000
+ 14789 multiletter control sequences out of 15000+200000
+ 62411 words of font info for 47 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 42i,12n,46p,658b,996s stack positions out of 5000i,500n,10000p,200000b,50000s
+pdfTeX warning (dest): name{subsubsection.9.3.4} has been referenced but does
+ not exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.9.3.3} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.9.3.2} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.9.3.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.9.3} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.9.2.2} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.9.2.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.9.2} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsubsection.9.1.1} has been referenced but does n
+ot exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.9.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.9} has been referenced but does not exist, 
+replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.8.7} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.8.6} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.8.5} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.8.4} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.8.3} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.8.2} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{subsection.8.1} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{section.8} has been referenced but does not exist, 
+replaced by a fixed one
+
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/enc/dvips/lm/lm-rm.enc}{C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/enc/dvips/lm/lm-mathit.enc}{C:/Program Files (x86)/MiKTeX 2.9/fo
+nts/enc/dvips/lm/lm-ec.enc}{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/l
+m/lm-ts1.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbx10.pf
+b><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbx12.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmbxi10.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/lm/lmmi10.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/public/lm/lmr10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/t
+ype1/public/lm/lmr12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/
+lm/lmr17.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr6.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmr9.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/lm/lmri10.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/lm/lmsy10.pfb><C:/Program Files (x86)/MiKTeX 2.9/
+fonts/type1/public/lm/lmtt10.pfb>
+Output written on "W:/Documents/Dropbox/Development/Iterative Function Systems/
+IFS.pdf" (44 pages, 9392837 bytes).
+PDF statistics:
+ 1033 PDF objects out of 1200 (max. 8388607)
+ 267 named destinations out of 1000 (max. 500000)
+ 1017 words of extra memory for PDF output out of 10000 (max. 10000000)
+

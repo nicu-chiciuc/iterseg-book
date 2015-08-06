@@ -1,0 +1,54 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {subsection}{\numberline {1.1}General Iterative Function Systems}{3}{subsection.1.1}
+\contentsline {section}{\numberline {2}Demonstration}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}An colorful approach}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}First steps}{7}{subsection.2.2}
+\contentsline {subsubsection}{\numberline {2.2.1}Basic controls}{7}{subsubsection.2.2.1}
+\contentsline {subsubsection}{\numberline {2.2.2}The base layer and simple layers}{7}{subsubsection.2.2.2}
+\contentsline {subsubsection}{\numberline {2.2.3}Identity Layer}{8}{subsubsection.2.2.3}
+\contentsline {subsubsection}{\numberline {2.2.4}The Base Layer}{9}{subsubsection.2.2.4}
+\contentsline {subsection}{\numberline {2.3}Common fractals}{10}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}The Dragon Curve}{10}{subsubsection.2.3.1}
+\contentsline {subsubsection}{\numberline {2.3.2}Levy C Curve}{11}{subsubsection.2.3.2}
+\contentsline {subsubsection}{\numberline {2.3.3}Koch Snowflake and the Polar Grid}{12}{subsubsection.2.3.3}
+\contentsline {subsubsection}{\numberline {2.3.4}Some Quadratic curves}{14}{subsubsection.2.3.4}
+\contentsline {subsubsection}{\numberline {2.3.5}Variations}{14}{subsubsection.2.3.5}
+\contentsline {section}{\numberline {3}Simple Techniques}{16}{section.3}
+\contentsline {subsection}{\numberline {3.1}Simple Spirals}{16}{subsection.3.1}
+\contentsline {subsubsection}{\numberline {3.1.1}Types of simple spirals}{16}{subsubsection.3.1.1}
+\contentsline {subsubsection}{\numberline {3.1.2}More interesting spirals}{17}{subsubsection.3.1.2}
+\contentsline {subsection}{\numberline {3.2}Simple Trees}{18}{subsection.3.2}
+\contentsline {subsubsection}{\numberline {3.2.1}Trees with two branches}{18}{subsubsection.3.2.1}
+\contentsline {subsubsection}{\numberline {3.2.2}Trees with multiple branches}{19}{subsubsection.3.2.2}
+\contentsline {subsubsection}{\numberline {3.2.3}Trees with multiple transformations}{20}{subsubsection.3.2.3}
+\contentsline {subsection}{\numberline {3.3}Unconnected figures}{20}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Singleton Pattern}{23}{subsection.3.4}
+\contentsline {subsection}{\numberline {3.5}Decorator Pattern}{24}{subsection.3.5}
+\contentsline {subsection}{\numberline {3.6}Case Studies}{25}{subsection.3.6}
+\contentsline {subsubsection}{\numberline {3.6.1}Two Rays}{25}{subsubsection.3.6.1}
+\contentsline {section}{\numberline {4}Advanced Techniques}{30}{section.4}
+\contentsline {subsection}{\numberline {4.1}Step-by-step pattern}{30}{subsection.4.1}
+\contentsline {subsection}{\numberline {4.2}Color Mixing}{31}{subsection.4.2}
+\contentsline {section}{\numberline {5}Randomness}{32}{section.5}
+\contentsline {subsection}{\numberline {5.1}Node position variation}{32}{subsection.5.1}
+\contentsline {subsubsection}{\numberline {5.1.1}Random Paths}{33}{subsubsection.5.1.1}
+\contentsline {subsubsection}{\numberline {5.1.2}Random Spirals}{33}{subsubsection.5.1.2}
+\contentsline {section}{\numberline {6}Used Technologies}{35}{section.6}
+\contentsline {subsection}{\numberline {6.1}General HTML layout}{35}{subsection.6.1}
+\contentsline {subsection}{\numberline {6.2}The \emph {Canvas} element}{35}{subsection.6.2}
+\contentsline {subsection}{\numberline {6.3}The \emph {SVG} element}{35}{subsection.6.3}
+\contentsline {subsection}{\numberline {6.4}Snap SVG}{35}{subsection.6.4}
+\contentsline {subsection}{\numberline {6.5}jQuery UI}{36}{subsection.6.5}
+\contentsline {subsection}{\numberline {6.6}Spectrum.js}{36}{subsection.6.6}
+\contentsline {subsection}{\numberline {6.7}CoffeeScript}{36}{subsection.6.7}
+\contentsline {section}{\numberline {7}Implementation details}{38}{section.7}
+\contentsline {subsection}{\numberline {7.1}The Vector class}{38}{subsection.7.1}
+\contentsline {subsubsection}{\numberline {7.1.1}Object.defineProperty}{38}{subsubsection.7.1.1}
+\contentsline {subsection}{\numberline {7.2}Basic Geometry and point transformation}{39}{subsection.7.2}
+\contentsline {subsubsection}{\numberline {7.2.1}Simple Transformation}{39}{subsubsection.7.2.1}
+\contentsline {subsubsection}{\numberline {7.2.2}A faster algorithm}{41}{subsubsection.7.2.2}
+\contentsline {subsection}{\numberline {7.3}Recursive drawing}{42}{subsection.7.3}
+\contentsline {subsubsection}{\numberline {7.3.1}Asynchronous JavaScript}{42}{subsubsection.7.3.1}
+\contentsline {subsubsection}{\numberline {7.3.2}Asynchronous Recursive Drawing}{42}{subsubsection.7.3.2}
+\contentsline {subsubsection}{\numberline {7.3.3}An Asynchronous Iterative approach}{43}{subsubsection.7.3.3}
+\contentsline {subsubsection}{\numberline {7.3.4}The last optimization}{43}{subsubsection.7.3.4}

@@ -1,0 +1,90 @@
+% -*- program : pdflatex -*-
+\documentclass{article}
+
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+
+\usepackage[margin=1.15in]{geometry}
+
+\usepackage{fancyvrb}
+\usepackage{mathtools}
+% \usepackage{tikz}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+
+% For the degree circle sign
+\usepackage{textcomp}
+
+\usepackage{lmodern}
+\usepackage{hyperref}
+
+\usepackage{placeins}
+% \usepackage[numbered, framed]{../../Libraries/mcode}
+\usepackage{listings}
+
+\usepackage{float}
+\usepackage[list=true]{subcaption}
+
+\newcommand{\xt}[1]{\texttt{#1}}
+\newcommand{\quotes}[1]{``#1''}
+\newcommand{\TW}{\textwidth}
+
+% \includeonly{chapters/advanced_techniques}
+
+\begin{document}
+
+    \title{Web GUI for \\ L-System}
+    \author{Chiciuc Nicușor}
+    \maketitle
+
+    
+    % \pagebreak
+    \tableofcontents
+
+    \include{chapters/introduction}
+
+    \include{chapters/demonstration}
+    
+    \include{chapters/simple_techniques}
+
+    \include{chapters/advanced_techniques}
+
+    \include{chapters/randomness}
+
+    % \include{chapters/mirroring}
+
+    % \include{chapters/case_studies}
+    
+    \include{chapters/used_technologies}
+
+    \include{chapters/implementation_details}
+
+    \begin{thebibliography}{9}
+
+        \bibitem{new_kind_science}
+            \emph{A new Kind of Science}
+            Stephen Wolfram. 2002
+
+        \bibitem{js_ninja}
+            \emph{Secrets of the JavaScript Ninja}.
+            John Resing, Bear Bibeault. Manning Publications.  2013
+
+        \bibitem{wiki_canvas}
+            Wikipedia. 
+            \href{http://en.wikipedia.org/wiki/Canvas_element}{Canvas Element}
+
+        \bibitem{jquery}
+            \href{http://jqueryui.com/}{jQuery UI}
+
+        \bibitem{closures}
+            \href{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Closures}{MDN, JavaScript Closures}
+
+        \bibitem{defineProperty}
+            \href{https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty}{MDN, Object.defineProperty()}
+
+        \bibitem{barnsley_fern}
+            \href{http://en.wikipedia.org/wiki/Barnsley_fern}{Wikipedia, Barnsley Fern}
+
+    \end{thebibliography}
+
+\end{document}
